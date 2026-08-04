@@ -1,5 +1,3 @@
-package problems.cardsProblem;
-
 import java.util.Scanner;
 
 class Card {
@@ -13,7 +11,7 @@ class Card {
 
 }
 
-class main {
+class Solution {
     public static void main() {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("value for card1: ");

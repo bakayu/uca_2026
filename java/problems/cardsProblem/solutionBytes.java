@@ -1,5 +1,3 @@
-package problems.cardsProblem;
-
 class solutionBytes {
     public static void main(String[] args) {
         int card1Val = 10;

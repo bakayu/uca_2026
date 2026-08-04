@@ -1,5 +1,3 @@
-package problems.minStack;
-
 class MinStack {
 
     private Node top;

@@ -1,5 +1,3 @@
-package problems.rainLogger;
-
 import java.util.*;
 
 class RobotMessageTracker {
